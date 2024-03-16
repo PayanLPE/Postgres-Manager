@@ -14,3 +14,4 @@ venv\
 6. Run program by executing: `$ python DbManager.py`.
 
 # Video demostration
+https://youtu.be/Fiegoj4-Tvs
